@@ -19,7 +19,7 @@ const Timeline = () => {
         <div className="space-y-8 relative">
           {/* Timeline Item 1 */}
           <div className="flex flex-col md:flex-row items-center w-full">
-            <div className="w-full md:w-1/2 md:pr-8 md:text-right text-center md:text-left mb-4 md:mb-0">
+            <div className="w-full md:w-1/2 md:pr-8 md:text-right text-center mb-4 md:mb-0">
               <h2 data-aos="fade-right" className="text-2xl font-semibold mb-2">
                 AI-Powered Learning & Real-World Projects
               </h2>
@@ -57,7 +57,7 @@ const Timeline = () => {
 
           {/* Timeline Item 3 */}
           <div className="flex flex-col md:flex-row items-center w-full">
-            <div className="w-full md:w-1/2 md:pr-8 md:text-right text-center md:text-left mb-4 md:mb-0">
+            <div className="w-full md:w-1/2 md:pr-8 md:text-right text-center mb-4 md:mb-0">
               <h2 data-aos="fade-right" className="text-2xl font-semibold mb-2">
                 Collaborative Growth & Continuous Support
               </h2>
