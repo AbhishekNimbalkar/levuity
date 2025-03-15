@@ -27,7 +27,7 @@ const Chat = () => {
         {/* Input Field */}
         <input
           type="text"
-          className="flex-1 p-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+          className="flex-1 p-2 rounded focus:outline-none focus:ring-3 focus:ring-blue-500"
           placeholder="Type your message..."
           value={message}
           onChange={(e) => setMessage(e.target.value)}
